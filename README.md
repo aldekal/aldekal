@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Great that you've stumbled upon my GitHub profile :)
 <!--
 **aldekal/aldekal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
