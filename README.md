@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 Hello there! 👋 Thank you for visiting my GitHub profile. Allow me to introduce myself and share a little about what I do.
 
+## My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,java,hibernate,spring,maven,postgres,latex,vscode,bash,linux" />
+  </a>
+</p>
 
 ## Get in Touch
 
