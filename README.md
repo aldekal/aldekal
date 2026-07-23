@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed 👋
+## Hi, I'm Ahmed /ˈɑːħmɐd/ 👋
 
 Backend developer at [CDA IT Systems](https://www.cda-it-systems.com/), working mainly with Java and Spring.
 
