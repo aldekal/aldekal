@@ -1,4 +1,4 @@
-## Hi, I'm Ahmed /ˈɑːħmɐd/ 👋
+## Hi, I'm Ahmed 👋
 
 Backend developer at [CDA IT Systems](https://www.cda-it-systems.com/), working mainly with Java and Spring.
 
@@ -18,3 +18,11 @@ Backend developer at [CDA IT Systems](https://www.cda-it-systems.com/), working 
 ## Get in Touch
 
 Feel free to reach out via GitHub or email at github@aldekal.de.
+
+## 🔊 How to Pronounce My Name
+
+Ahmed /ˈɑːħmɐd/
+
+<audio controls src="https://raw.githubusercontent.com/aldekal/aldekal/main/name-pronunciation.mp3"></audio>
+
+<sub>Generated with the <a href="https://www.capyschool.com/en/reader/">IPA Reader</a> (Arabic).</sub>
