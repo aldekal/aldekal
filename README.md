@@ -21,8 +21,6 @@ Feel free to reach out via GitHub or email at github@aldekal.de.
 
 ## 🔊 How to Pronounce My Name
 
-Ahmed /ˈɑːħmɐd/
-
-<audio controls src="https://raw.githubusercontent.com/aldekal/aldekal/main/name-pronunciation.mp3"></audio>
+Ahmed /ˈɑːħmɐd/ — [▶️ listen](https://raw.githubusercontent.com/aldekal/aldekal/main/name-pronunciation.mp3)
 
 <sub>Generated with the <a href="https://www.capyschool.com/en/reader/">IPA Reader</a> (Arabic).</sub>
